@@ -1,0 +1,7 @@
+{
+  "name": "Coastal Car Care",
+  "description": "Professional car wash and detailing services in Port Alfred. Reliable, high-quality, and community-focused car care.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
